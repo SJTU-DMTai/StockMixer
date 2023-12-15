@@ -2,8 +2,7 @@
 
 Official code implementation and supplementary material of AAAI 2024 paper "**StockMixer: A Simple yet Strong MLP-based Architecture for Stock Price Forecasting**". This work proposes a lightweight and effective MLP-based architecture for stock price forecasting named StockMixer. It consists of indicator mixing, temporal mixing and stock mixing to capture complex correlations in the stock data. The end-to-end training flow of StockMixer is presented as follows:
 
-![image-20231213205439727](C:\Users\19818\Desktop\StockMixer\framework.png)
-
+![](C:\Users\19818\Desktop\StockMixer\framework.png)
 ## Environment
 
 - Python 3.7
